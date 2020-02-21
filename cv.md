@@ -3,7 +3,7 @@
 > Contact Info
 * germanovichpavel95@gmail.com
 * [linkedin](https://www.linkedin.com/in/pavel-germanovich-8ba9101a1/)
-* [github] (https://github.com/PavelGermanovich)
+* [github](https://github.com/PavelGermanovich)
 
 ## Summary
 QA Automation Engineer with 2 years of experience in manual testing and 1 year of hands-on experience in automation testing. I am focused on the quality of product, love coding and want to try myself in the mobile application development.
@@ -19,7 +19,7 @@ QA Automation Engineer with 2 years of experience in manual testing and 1 year o
 8. Linux
 9. Obj-C (Base knowledge)
 
-> For *code examples* you can check my [github] (https://github.com/PavelGermanovich)
+> For *code examples* you can check my [github](https://github.com/PavelGermanovich)
 
 ## Experience
 I have **2 years** of experience in manual testing and **1 year** of hands-on experience in *automation testing*. I have performed different kind of work activities such as:
