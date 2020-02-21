@@ -1,4 +1,4 @@
-# Pavel Germanovich #
+# Pavel Germanovich
 
 > Contact Info
 * germanovichpavel95@gmail.com
