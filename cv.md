@@ -6,7 +6,7 @@
 * [github](https://github.com/PavelGermanovich)
 
 ## Summary
-QA Automation Engineer with 2 years of experience in manual testing and 1 year of hands-on experience in automation testing. I am focused on the quality of product, love coding and want to try myself in the mobile application development.
+**QA Automation Engineer** with 2 years of experience in manual testing and 1 year of hands-on experience in automation testing. I am focused on the quality of product, love coding and want to try myself in the mobile application development.
 
 ## Skills
 1. Java
@@ -28,11 +28,14 @@ I have **2 years** of experience in manual testing and **1 year** of hands-on ex
 - Create/execute/maintain automation scripts (Java, TestNG, Selenium)
 - Provide reports and status dashboards to management on the automation sprint backlog, timing, schedule and results (report portal)
 - Setup of CI system (Jenkins) for test execution. job creation and configuration
+- and etc.
 
 ### Education
 *The Academy of Public Administration : Information resources management*
 
 ## English
-English level is **Upper-Intermediate (B2)**
-Besides English learning at school and university I also finished 2 English courses: English Spoken Intermediate and Business English courses.
-Have experience with Communication with customer in English (daily meeting and etc.)
+English level is **Upper-Intermediate (B2)**.
+Besides English learning at school and university I also finished 2 English courses:
+- [x] English Spoken Intermediate
+- [x]  Business English courses.
+Have experience with communication with customer in English (daily meeting and etc.)
