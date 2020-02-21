@@ -38,4 +38,4 @@ English level is **Upper-Intermediate (B2)**.
 Besides English learning at school and university I also finished 2 English courses:
 - [x] English Spoken Intermediate
 - [x]  Business English courses.
-Have experience with communication with customer in English (daily meeting and etc.)
+#### Have experience with communication with customer in English (daily meeting and etc.)
